@@ -45,7 +45,7 @@ Worked closely with:
 
 ## 📸 Visual Preview
 
-![Architecture Diagram]()
+![Architecture Diagram](https://github.com/VVBK24/Wheelchair_modification__UNO/blob/main/Screenshot/Screenshot%202025-05-11%20193528.png)
 
 ![Smart Wheelchair](https://github.com/VVBK24/Wheelchair_modification__UNO/blob/main/Screenshot/IMG_20231118_162719.jpg)
 
