@@ -45,9 +45,12 @@ Worked closely with:
 
 ## 📸 Visual Preview
 
-![Smart Wheelchair](wheelchair.png)
+![Architecture Diagram]()
 
-> *Note: Make sure `wheelchair.png` is placed in the same directory as this README.*
+![Smart Wheelchair](https://github.com/VVBK24/Wheelchair_modification__UNO/blob/main/Screenshot/IMG_20231118_162719.jpg)
+
+
+> *this the final product that shown*
 
 ---
 
